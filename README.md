@@ -18,7 +18,7 @@ The list of authors can be found in the [AUTHORS](AUTHORS) file.
 
 ## 作者
 
-由 **ReTri · 樊斯瑞** 维护 · [GitHub 主页](https://github.com/huanweide)
+由 **ReTri** 维护 · [GitHub 主页](https://github.com/huanweide)
 
 ## 赞助支持
 
